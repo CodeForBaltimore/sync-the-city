@@ -4,7 +4,7 @@
 Design discussion creation of backlog and identification of documentation.
 
 ## Attendees
-![attendees_whiteboard](docs/meetings/img/whiteboard_attendees.jpg)  
+![attendees_whiteboard](/docs/meetings/img/whiteboard_attendees.jpg)  
 
 ## Prototype/Mockup
 * **Front End** - React Native
