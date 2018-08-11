@@ -19,5 +19,4 @@ Design discussion creation of backlog and identification of documentation.
 ![er_diagram](/docs/meetings/img/whiteboard_er_diagram.jpg)
 
 # Action Items
-* Karina - upload mockup to github to describe concept for the team to break down the backlog.
 
