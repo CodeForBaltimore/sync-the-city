@@ -3,6 +3,9 @@
 
 Design discussion creation of backlog and identification of documentation.
 
+## Attendees
+![attendees_whiteboard](docs/meetings/img/whiteboard_attendees.jpg)  
+
 ## Prototype/Mockup
 * **Front End** - React Native
 * **Backend** - Python (API), R - Data Science (Data sources, types, define?)
@@ -17,6 +20,8 @@ Design discussion creation of backlog and identification of documentation.
 
 ## ER diagram
 ![er_diagram](docs/meetings/img/whiteboard_er_diagram.jpg)
+![er_database](docs/meetings/img/whiteboard_er_database.jpg)
+
 
 # Action Items
 * Karina - upload mockup to github to describe concept for the team to break down the backlog.
