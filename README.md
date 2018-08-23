@@ -1,1 +1,2 @@
-# SincronicityProject
+# Sync The City
+
